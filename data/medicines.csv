@@ -1,0 +1,14 @@
+medicine_id,name,quantity,expiry_date
+101,paracetamol 500mg,100,20-12-2027
+102,Dolo 650,80,15-08-2027
+103,Cetrizine 10mg,50,10-06-2027
+104,Amoxicillin 500mg,60,25-09-2027
+105,Omeprazole 20mg,40,18-11-2027
+106,Vitamin C 500mg,70,12-10-2027
+107,ORS,100,30-07-2027
+108,Cough Syrup,30,15-05-2027
+109,Antacid,50,20-08-2027
+110,Ibuprofen 200mg,60,10-12-2027
+111,Azithromicin,9,06-11-2027
+112,Multivitamin,20,30-11-2026
+113,Iron,40,12-12-2027
